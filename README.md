@@ -14,5 +14,6 @@
    ![sqlmap](https://github.com/egorvozhzhov/Prac4/assets/71019753/a59a563f-e442-4c14-a41d-656998e6308f)
 
 6. Настроим прокси в браузере и Burp, затем перехватим запрос, поменяем парамеатр и отправим запрос с измененным параметром, что бы получить имена всех пользователей
-    ![Uploading burp.png…]()
+    ![burp](https://github.com/egorvozhzhov/Prac4/assets/71019753/149f6700-a291-4001-96e8-da9cba8b66f4)
+
 
