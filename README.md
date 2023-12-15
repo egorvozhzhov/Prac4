@@ -39,7 +39,8 @@
 
    из таблицы users получим логины и пароли
 
-   ![Uploading image.png…]()
+   ![image](https://github.com/egorvozhzhov/Prac4/assets/71019753/a9ae1212-9ad7-4bb4-bd04-f19eea93b44f)
+
 
    Вот и все логины и пароли
 
